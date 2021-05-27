@@ -73,7 +73,7 @@ public class MusicAlbum
 		return trackTitle;
 	}
 	/**
-		@return a <code> String </code> with the name of the artist
+		@return  <code> String </code> with the name of the artist
 	*/
 	public String getArtistName(){
 		return artistName;
